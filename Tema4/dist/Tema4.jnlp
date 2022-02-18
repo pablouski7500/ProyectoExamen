@@ -8,7 +8,7 @@
   </information>
   <resources>
     <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
-    <jar href="Tema4.jar" size="188470" download="eager" />
+    <jar href="Tema4.jar" size="198919" download="eager" />
   </resources>
   <jfx:javafx-desc  width="800" height="600" main-class="loginJavaFX.Main"  name="Tema4" />
   <update check="always"/>
