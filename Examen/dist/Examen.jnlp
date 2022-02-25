@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Examen.jnlp">
+  <information>
+    <title>Examen</title>
+    <vendor>Pablo Reyes</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Examen.jar" size="219226" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="loginJavaFX.Login"  name="Examen" />
+  <update check="always"/>
+</jnlp>
